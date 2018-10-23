@@ -1,0 +1,9 @@
+C:\Dropbox\DMA\BackupTool\BackupTool\bin\Debug\BackupTool.exe
+C:\Dropbox\DMA\BackupTool\BackupTool\bin\Debug\BackupTool.pdb
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.csprojResolveAssemblyReference.cache
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.frmConfig.resources
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.frmPrincipal.resources
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.Properties.Resources.resources
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.csproj.GenerateResource.Cache
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.exe
+C:\Dropbox\DMA\BackupTool\BackupTool\obj\Debug\BackupTool.pdb
